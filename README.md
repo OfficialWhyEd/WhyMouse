@@ -1,4 +1,4 @@
-# MisuraMouse
+# WhyMouse
 
 **Measure the real DPI and polling rate of a mouse from PowerShell, no extra software.**
 
